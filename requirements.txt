@@ -1,0 +1,20 @@
+matplotlib
+seaborn
+pandas
+numpy
+scipy
+scikit-learn
+pathlib
+opencv-python
+roboflow
+ultralytics
+#torch
+yt_dlp
+matplotlib
+ffmpeg
+tqdm
+onnx
+#gpt conversion of pytorch:https://pytorch.org/get-started/locally/
+torch --find-links https://download.pytorch.org/whl/cu118
+torchvision --find-links https://download.pytorch.org/whl/cu118
+torchaudio --find-links https://download.pytorch.org/whl/cu118
